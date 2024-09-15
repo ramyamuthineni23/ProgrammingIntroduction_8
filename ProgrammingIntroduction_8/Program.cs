@@ -8,7 +8,7 @@ Console.WriteLine("Hello World!");
 // Console.ReadKey();
 // Debug.WriteLine("Hello World!");
 
-// variables and native operations
+// variables and operations
 int x;
 int y;
 
